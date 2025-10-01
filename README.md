@@ -4,4 +4,4 @@ Git tutorial 1 for the Robotics Society Git Crash Course
 
 Enter some text below this line:
 --------------------
-I dont deserve this jacket
+I do deserve this jacket
